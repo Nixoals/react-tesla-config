@@ -1,3 +1,3 @@
-# React simple site
+# Simple React app
 
-See it in [live](https://nixoals-tesla-config.netlify.app/)
+see it in [live](https://nixoals-tesla-config.netlify.app/)
