@@ -18,7 +18,7 @@ const TeslaConfig = () => {
 			</header>
 			<div>
 				<div className="model-selection container">
-					<h2>Slectionner un véhicule</h2>
+					<h2>Sélectionner un véhicule</h2>
 					<div className="select-mode">
 						<button
 							style={model === 1 ? { borderColor: '#00f' } : { borderColor: '' }}
@@ -39,7 +39,7 @@ const TeslaConfig = () => {
 					</div>
 				</div>
 				<div className="color-selection container">
-					<h2>Slectionner la couleur</h2>
+					<h2>Sélectionner la couleur</h2>
 					<div className="select-mode">
 						<button
 							style={color === 1 ? { borderColor: '#00f' } : { borderColor: '' }}
